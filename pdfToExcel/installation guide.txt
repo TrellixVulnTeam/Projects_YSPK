@@ -1,0 +1,8 @@
+1. java installieren (jre)
+
+terminal eingaben
+-----------------------
+2. conda install -c conda-forge pypdf2
+3. conda install pip
+4. C:\Users\<your-username>\Anaconda3\bin\pip install tabula-py
+5. conda install -c anaconda tk
