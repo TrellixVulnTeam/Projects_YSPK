@@ -1,0 +1,33 @@
+Bot Docs B "CodeHelper"
+
+System Requirements:
+	- ubuntu or fedora based linux system
+	- 64 bit system
+	- bash 
+	- additonal Requirements (Installer will install those):
+		-python3 (64 bit)
+		-python3 Libraries
+			-nltk
+				-stopwords data
+			-requests
+			-os
+			-sys
+			-beautifulsoup4 
+			-numpy 
+			-sklearn2 
+			-scikit-learn 
+			-scipy
+		-VS code (64 bit)
+		-nodeJs (64 bit)
+
+Installation:
+	- copy the linux folder in codehelper-installer to a local place
+	- open a terminal and go to this directory
+	- when in folder chmod +x the specific shell file for your system
+	- run this specific file
+	- restart system
+	- open vsc code
+	- press ctrl + shift + p
+	- type code helper and press enter
+	- type your query example. python:math:how to use sine 
+	- press enter and enjoy

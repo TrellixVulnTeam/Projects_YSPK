@@ -1,0 +1,20 @@
+math.sinh(x)¶ return the hyperbolic sine of x.
+math.asin(x)¶ return the arc sine of x, in radians.
+math.asinh(x)¶ return the inverse hyperbolic sine of x.
+hyperbolic functions are analogs of trigonometric functions that are based on hyperbolas instead of circles.return the inverse hyperbolic cosine of x.return the inverse hyperbolic sine of x.return the inverse hyperbolic tangent of x.return the hyperbolic cosine of x.return the hyperbolic sine of x.return the hyperbolic tangent of x. special functions¶
+return the arc cosine of x, in radians.return the arc sine of x, in radians.return the arc tangent of x, in radians.return atan(y / x), in radians. the result is between -pi and pi. the vector in the plane from the origin to point (x, y) makes this angle with the positive x axis. the point of atan2() is that the signs of both inputs are known to it, so it can compute the correct quadrant for the angle. for example, atan(1) and atan2(1, 1) are both pi/4, but atan2(-1, -1) is -3*pi/4.return the cosine of x radians.return the euclidean distance between two points p and q, each given as a sequence (or iterable) of coordinates.  the two points must have the same dimension.roughly equivalent to:sqrt(sum((px - qx) ** 2.0 for px, qx in zip(p, q)))
+new in version 3.8. new in version 3.8.return the euclidean norm, sqrt(sum(x**2 for x in coordinates)). this is the length of the vector from the origin to the point given by the coordinates.for a two dimensional point (x, y), this is equivalent to computing the hypotenuse of a right triangle using the pythagorean theorem, sqrt(x*x + y*y). changed in version 3.8: added support for n-dimensional points. formerly, only the two dimensional case was supported. changed in version 3.8: added support for n-dimensional points. formerly, only the two dimensional case was supported.return the sine of x radians.return the tangent of x radians. angular conversion¶
+modules |
+|
+constants¶
+trigonometric functions¶
+table of contents
+special functions¶
+python »
+previous |
+this page
+next |
+navigation
+index
+number-theoretic and representation functions¶
+math — mathematical functions¶
