@@ -1,0 +1,7 @@
+{
+	"host" : "localhost",
+	"user" : "tester",
+	"password" : "testpassword,
+	"database" : "twitterDataTest",
+	"sqlTable" : "Testtabelle"
+}

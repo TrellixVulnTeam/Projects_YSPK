@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json
+
+if __name__ == "__main__":
+    countryCodesNotStructuredFilePath = "iso-3166-alpha-2-country-codes-not-structered.json"
+    countryCodesStructuredFilePath = "iso-3166-alpha-2-country-codes-structered.json"
+    countryCodesNotStructuredData = json.load(open(countryCodesNotStructuredFilePath, "r", encoding = "utf8"))
+    countryCodesStructuredData = dict()
+    
+    for item in countryCodesNotStructuredData:
+        countryCodesStructuredData[item["Code"].lower()] = item["Name"]
+    
+    countryCodesStructuredData["und"] = "Country not known"
+    countryCodesStructuredData["en"] = "Great Britain"
+    countryCodesStructuredData["cs"] = "Czech Republic"
+    countryCodesStructuredData["da"] = "Denmark"
+    countryCodesStructuredData["hi"] = "Indian"
+    countryCodesStructuredData["el"] = "Greece"
+    countryCodesStructuredData["zh"] = "China"
+    countryCodesStructuredData["ja"] = "Japan"
+    countryCodesStructuredData["eu"] = "Basque Country"
+    countryCodesStructuredData["uk"] = "Ukraine"
+    countryCodesStructuredData["ur"] = "Pakistan"
+    countryCodesStructuredData["ko"] = "South Korea"
+    countryCodesStructuredData["fa"] = "Afghanistan"
+    countryCodesStructuredData["iw"] = "Israel"
+    countryCodesStructuredData["hy"] = "Armenia"
+    countryCodesStructuredData["ta"] = "Singapore"
+    countryCodesStructuredData["ka"] = "Georgia"
+    countryCodesStructuredData["lo"] = "Laos"
+
+    with open(countryCodesStructuredFilePath, "w", encoding = "utf8") as outfile:
+        json.dump(countryCodesStructuredData, outfile)

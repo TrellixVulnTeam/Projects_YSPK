@@ -1,0 +1,64 @@
+favorited : False
+ 
+id_str : 1212211054446600192
+ 
+in_reply_to_user_id : 18933321
+ 
+truncated : True
+ 
+in_reply_to_status_id : None
+ 
+retweet_count : 0
+ 
+in_reply_to_user_id_str : 18933321
+ 
+in_reply_to_status_id_str : None
+ 
+entities : {'user_mentions': [{'screen_name': 'Linksfraktion', 'name': 'linksfraktion', 'id_str': '18933321', 'id': 18933321, 'indices': [0, 14]}, {'screen_name': 'GrueneBundestag', 'name': 'Grüne im Bundestag 🇪🇺🏳️\u200d🌈', 'id_str': '24725119', 'id': 24725119, 'indices': [15, 31]}, {'screen_name': 'spdbt', 'name': 'SPD-Fraktion im Bundestag', 'id_str': '347792540', 'id': 347792540, 'indices': [33, 39]}], 'hashtags': [], 'urls': [{'indices': [117, 140], 'display_url': 'twitter.com/i/web/status/1…', 'url': 'https://t.co/U1W7qWE3HO', 'expanded_url': 'https://twitter.com/i/web/status/1212211054446600192'}], 'symbols': []}
+ 
+quote_count : 0
+ 
+favorite_count : 0
+ 
+place : None
+ 
+id : 1212211054446600200
+ 
+quoted_status_id_str : 1212051010509819904
+ 
+retweeted : False
+ 
+text : @Linksfraktion @GrueneBundestag  @spdbt da wäre eine Stellungnahme mehr als angemessen. Wie kann es sein, dass part… https://t.co/U1W7qWE3HO
+ 
+reply_count : 0
+ 
+lang : de
+ 
+geo : None
+ 
+contributors : None
+ 
+source : <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+ 
+timestamp_ms : 1577848611829
+ 
+filter_level : low
+ 
+created_at : Wed Jan 01 03:16:51 +0000 2020
+ 
+quoted_status : {'possibly_sensitive': False, 'favorited': False, 'id_str': '1212051010509819904', 'in_reply_to_user_id': None, 'truncated': True, 'in_reply_to_status_id': None, 'retweet_count': 49, 'in_reply_to_user_id_str': None, 'in_reply_to_status_id_str': None, 'entities': {'user_mentions': [], 'hashtags': [], 'urls': [{'indices': [0, 23], 'display_url': 'journalistenwatch.com/2019/12/31/von…', 'url': 'https://t.co/bhqzoOGL2l', 'expanded_url': 'https://www.journalistenwatch.com/2019/12/31/von-steuergeldern-mord/'}, {'indices': [116, 139], 'display_url': 'twitter.com/i/web/status/1…', 'url': 'https://t.co/jwua8OIAtG', 'expanded_url': 'https://twitter.com/i/web/status/1212051010509819904'}], 'symbols': []}, 'quote_count': 2, 'favorite_count': 45, 'extended_tweet': {'display_text_range': [0, 247], 'full_text': 'https://t.co/bhqzoOGL2l\nIsraelische Sicherheitskräfte haben 50 Terroristen festgenommen,  die in Verbindung stehen mit dem grausamen Mord an Rina...Etliche Verdächtige stehen in Verbindung mit den Parteistiftungen der Grünen,  Linken und der SPD..', 'entities': {'user_mentions': [], 'hashtags': [], 'urls': [{'indices': [0, 23], 'display_url': 'journalistenwatch.com/2019/12/31/von…', 'url': 'https://t.co/bhqzoOGL2l', 'expanded_url': 'https://www.journalistenwatch.com/2019/12/31/von-steuergeldern-mord/'}], 'symbols': []}}, 'id': 1212051010509820000, 'retweeted': False, 'text': 'https://t.co/bhqzoOGL2l\nIsraelische Sicherheitskräfte haben 50 Terroristen festgenommen,  die in Verbindung stehen… https://t.co/jwua8OIAtG', 'reply_count': 5, 'lang': 'de', 'geo': None, 'contributors': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'filter_level': 'low', 'user': {'name': 'Andrea Schlegel', 'screen_name': 'AndreaSchlegel3', 'id_str': '856471467172794369', 'profile_background_image_url': '', 'profile_use_background_image': True, 'description': 'im Freistaat Bayern lebendes Preussenmädel. Freidenkerin, libertär, pro Israel #.Wahrheiten werden hier gnadenlos gepostet. 🇮🇱🇩🇪🇨🇭🇷🇺🇺🇸', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/856471467172794369/1559490210', 'profile_text_color': '333333', 'statuses_count': 33796, 'profile_background_color': 'F5F8FA', 'url': None, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1134439624062001153/kcc16ncY_normal.jpg', 'follow_request_sent': None, 'notifications': None, 'listed_count': 33, 'default_profile_image': False, 'default_profile': True, 'profile_sidebar_fill_color': 'DDEEF6', 'translator_type': 'none', 'profile_sidebar_border_color': 'C0DEED', 'time_zone': None, 'lang': None, 'favourites_count': 95698, 'location': 'München, Bayern', 'is_translator': False, 'id': 856471467172794400, 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1134439624062001153/kcc16ncY_normal.jpg', 'protected': False, 'utc_offset': None, 'profile_background_tile': False, 'profile_background_image_url_https': '', 'followers_count': 6402, 'geo_enabled': True, 'verified': False, 'contributors_enabled': False, 'profile_link_color': '1DA1F2', 'created_at': 'Mon Apr 24 11:34:45 +0000 2017', 'following': None, 'friends_count': 7034}, 'place': None, 'created_at': 'Tue Dec 31 16:40:54 +0000 2019', 'is_quote_status': False, 'in_reply_to_screen_name': None, 'coordinates': None}
+ 
+user : {'name': 'Phalanx Europa', 'screen_name': 'phalanx_europa', 'id_str': '904637963891564544', 'profile_background_image_url': '', 'profile_use_background_image': True, 'description': 'Defend Europe! - No one else will!', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/904637963891564544/1510520144', 'profile_text_color': '333333', 'statuses_count': 4575, 'profile_background_color': 'F5F8FA', 'url': None, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1178732168601882625/-7Ma6ZUj_normal.jpg', 'follow_request_sent': None, 'notifications': None, 'listed_count': 6, 'default_profile_image': False, 'default_profile': True, 'profile_sidebar_fill_color': 'DDEEF6', 'translator_type': 'none', 'profile_sidebar_border_color': 'C0DEED', 'time_zone': None, 'lang': None, 'favourites_count': 7970, 'location': 'Berlin, Deutschland', 'is_translator': False, 'id': 904637963891564500, 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1178732168601882625/-7Ma6ZUj_normal.jpg', 'protected': False, 'utc_offset': None, 'profile_background_tile': False, 'profile_background_image_url_https': '', 'followers_count': 890, 'geo_enabled': False, 'verified': False, 'contributors_enabled': False, 'profile_link_color': '1DA1F2', 'created_at': 'Mon Sep 04 09:31:12 +0000 2017', 'following': None, 'friends_count': 982}
+ 
+extended_tweet : {'display_text_range': [0, 204], 'full_text': '@Linksfraktion @GrueneBundestag  @spdbt da wäre eine Stellungnahme mehr als angemessen. Wie kann es sein, dass partei(-nahe) Stuftungen Terror finanzieren?! @BerndBaumannAfD bitte der Sache mal nachgehen!', 'entities': {'user_mentions': [{'screen_name': 'Linksfraktion', 'name': 'linksfraktion', 'id_str': '18933321', 'id': 18933321, 'indices': [0, 14]}, {'screen_name': 'GrueneBundestag', 'name': 'Grüne im Bundestag 🇪🇺🏳️\u200d🌈', 'id_str': '24725119', 'id': 24725119, 'indices': [15, 31]}, {'screen_name': 'spdbt', 'name': 'SPD-Fraktion im Bundestag', 'id_str': '347792540', 'id': 347792540, 'indices': [33, 39]}, {'screen_name': 'BerndBaumannAfD', 'name': 'Dr. Bernd Baumann, AfD', 'id_str': '3043727333', 'id': 3043727333, 'indices': [157, 173]}], 'hashtags': [], 'urls': [], 'symbols': []}}
+ 
+quoted_status_id : 1212051010509820000
+ 
+is_quote_status : True
+ 
+quoted_status_permalink : {'display': 'twitter.com/andreaschlegel…', 'url': 'https://t.co/GoUHIdDb1D', 'expanded': 'https://twitter.com/andreaschlegel3/status/1212051010509819904'}
+ 
+in_reply_to_screen_name : Linksfraktion
+ 
+coordinates : None
+ 

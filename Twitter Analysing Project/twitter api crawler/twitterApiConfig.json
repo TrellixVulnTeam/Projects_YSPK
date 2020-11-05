@@ -1,0 +1,6 @@
+{
+	"email" : "your email you used",
+	"password" : "your password",
+	"consumer_key" : "your twitter api consumer key",
+	"consumer_secret" : "your twitter api consumer secret"
+}

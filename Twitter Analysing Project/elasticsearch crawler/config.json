@@ -1,0 +1,5 @@
+{
+	"elasticSearchURL" : "elastic-dbs.ifi.uni-heidelberg.de/twitter_pipeline/_search?pretty=true,
+	"user" : "testUser",
+	"password" : "testPassword",
+}
